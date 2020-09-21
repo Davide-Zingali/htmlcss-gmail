@@ -1,0 +1,45 @@
+body {
+  background-image: url(../img/sfondo.jpg);
+  color: white;
+}
+img {
+  width: 150px;
+}
+#box-principale {
+  margin: auto;
+  width: 1000px;
+}
+#titolo {
+  display: inline-block;
+  margin-bottom: 0;
+}
+.box {
+  display: inline-block;
+}
+#trenta {
+  background-color: orange;
+  padding: 5px;
+  border-radius: 50%;
+}
+h2{
+  font-size: 23px;
+}
+.white {
+  background-color: white;
+}
+.boxx {
+  border: 1px solid black;
+  color: #5f5f5f;
+}
+.gray {
+  background-color: lightgray;
+}
+.sx{
+  width: 400px;
+}
+.testo {
+  color: black;
+}
+footer {
+  text-align: center;
+}
